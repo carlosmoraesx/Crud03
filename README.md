@@ -1,4 +1,4 @@
-Esse foi um app criado para o cadastro de funcionarios com intuito de determina salários, profissões, nome e com função de editar e deletar.
+Esse foi um app criado para o cadastro de funcionários com intuito de determina salários, profissões, nome e com função de editar e deletar.
 
 ## Aplicações necessárias 
 
